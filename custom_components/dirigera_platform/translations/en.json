@@ -17,7 +17,7 @@
             "ip_address": "Hub IP",
             "hide_device_set_bulbs": "Hide Device Set Bulbs"
           },
-          "description": "Press the action button the dirigera hub and press Submit.",
+          "description": "Press the action button on the dirigera hub then press Submit.",
           "title": "IKEA Dirigera Hub Setup"
         }
       }
@@ -34,14 +34,14 @@
             "token": "token",
             "hide_device_set_bulbs": "Hide Device Set Bulbs"
           },
-          "description": "Update IKEA Dirigera Hub Setting..."
+          "description": "Update IKEA Dirigera Hub Settings..."
         },
         "action": {
           "data": {
             "ip_address": "Hub IP",
             "hide_device_set_bulbs": "Hide Device Set Bulbs"
           },
-          "description": "Press the action button the dirigera hub and press Submit.",
+          "description": "Press the action button on the dirigera hub then press Submit.",
           "title": "IKEA Dirigera Hub Setup"
         }
       }
